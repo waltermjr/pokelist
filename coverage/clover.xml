@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1680813142955" clover="3.2.0">
+  <project timestamp="1680813142955" name="All files">
+    <metrics statements="69" coveredstatements="66" conditionals="2" coveredconditionals="2" methods="15" coveredmethods="14" elements="86" coveredelements="82" complexity="0" loc="69" ncloc="69" packages="8" files="8" classes="8"/>
+    <package name="components.card">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="C:\Users\walte\Desktop\projetos\pokelist\src\components\card\index.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.card.style">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="C:\Users\walte\Desktop\projetos\pokelist\src\components\card\style\index.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.modal">
+      <metrics statements="23" coveredstatements="20" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="7"/>
+      <file name="index.tsx" path="C:\Users\walte\Desktop\projetos\pokelist\src\components\modal\index.tsx">
+        <metrics statements="23" coveredstatements="20" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="7"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="19" count="8" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="33" count="8" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="37" count="8" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.modal.style">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\walte\Desktop\projetos\pokelist\src\components\modal\style\index.ts">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="63" count="2" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="85" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.tag">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="C:\Users\walte\Desktop\projetos\pokelist\src\components\tag\index.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.tag.style">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.ts" path="C:\Users\walte\Desktop\projetos\pokelist\src\components\tag\style\index.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="services.api">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="C:\Users\walte\Desktop\projetos\pokelist\src\services\api\index.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="stylesheet">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="C:\Users\walte\Desktop\projetos\pokelist\src\stylesheet\index.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="57" count="3" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
